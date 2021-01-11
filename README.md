@@ -8,7 +8,7 @@ I am currently obtaining my second university degree with main focus on AI... or
 
 Switching onto a new career path at 30 is a challenge, but if I don't go after my dreams now, I am not sure I can teach my daughter to fight for her aspirations later (and switching at 50 would be a much greater challenge, nej?).
 
-### Skills:
+### Skills
 
 #### Programming and Templating Languages: 
     Python3, SQL (Postgresql), HTML, CSS, Sass, Jinja2, C, JavaScript
