@@ -14,10 +14,10 @@ Switching onto a new career path at 30 is a challenge, but if I don't go after m
     Python3, SQL (Postgresql), HTML, CSS, Sass, Jinja2, C, JavaScript
 
 #### Frameworks and Libraries: 
-    Django3, Flask, Django REST Framework, Bootstrap4
+    Django3, Chalice, Django REST Framework, Flask, Marshmallow, Pytest, Bootstrap4
 
 #### Tools: 
-    Docker, Git, Markdown, Nginx, Ansible, Gunicorn
+    Git, GitLab, Docker, Postman, Ansible, Nginx, Bash, Zsh, AWS, DynamoDB
 
 ⚡ briefly acquainted k3sup (fun) and bash (pain)
 
