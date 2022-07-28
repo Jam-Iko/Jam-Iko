@@ -4,7 +4,7 @@ I am Python (Django) Developer from Kyiv, Ukraine.
 
 I love programming, puzzles (hey-o CS50) and increasingly interested in cyber security. 
 
-I am currently obtaining my second university degree with main focus on AI... or math, lots of math (quite a contrast to my initial degree in Cultural Studies 😄 ).
+I have recently got my second university degree with main focus on AI... or math, lots of math (quite a contrast to my initial degree in Cultural Studies 😄 ). Nevermind, math already forgotten...
 
 Switching onto a new career path at 30 is a challenge, but if I don't go after my dreams now, I am not sure I can teach my daughter to fight for her aspirations later (and switching at 50 would be a much greater challenge, nej?).
 
@@ -14,7 +14,7 @@ Switching onto a new career path at 30 is a challenge, but if I don't go after m
     Python3, SQL (Postgresql), HTML, CSS, Sass, Jinja2, C, JavaScript
 
 #### Frameworks and Libraries: 
-    Django3, Chalice, Django REST Framework, Flask, Marshmallow, Pytest, Bootstrap4
+    Django3, Chalice, Flask, Marshmallow, Pytest, Bootstrap4
 
 #### Tools: 
     Git, GitLab, Docker, Postman, Ansible, Nginx, Bash, Zsh, AWS, DynamoDB
